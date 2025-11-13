@@ -2,7 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![HitCount](https://views.whatilearened.today/views/github/LordHAKA/LordHAKA.svg)](https://github.com/LordHAKA/LordHAKA) 
+[![HitCount](https://views.whatilearened.today/views/github/LordHAKA/LordHAKA.svg)](https://github.com/LordHAKA/LordHAKA) ![RATE](https://camo.githubusercontent.com/8eeb539392ec8f901bb361f61175eaddb56e720951259fb8b93ae68cff8155b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538352d627269676874677265656e) ![DEV](https://img.shields.io/static/v1?label=%F0%9F%9B%A0%EF%B8%8F&message=Experienced%20Developer&style=style=flat&color=42BD14) ![HACK](https://img.shields.io/static/v1?label=%F0%9F%92%BB%EF%B8%8F&message=Hacker&style=style=flat&color=42BD14) ![VIR](https://img.shields.io/static/v1?label=%F0%9F%A6%A0%EF%B8%8F&message=Virus%20Creator&style=style=flat&color=42BD14)
+
+![STAR](https://img.shields.io/static/v1?label=%E2%AD%90&message=Star%20Repo%20If%20Useful&style=style=flat&color=EED111)
 
 ---
 
