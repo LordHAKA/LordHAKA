@@ -66,6 +66,22 @@ currently_learning: ["OS Creation, Virus Creation, and Cyber Engineering"]
   
 ---  
 
+![GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=LordHAKA&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px)
+
+###
+
+<img src="https://raw.githubusercontent.com/LordHAKA/LordHAKA/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordHAKA/LordHAKA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordHAKA/LordHAKA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LordHAKA/LordHAKA/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
