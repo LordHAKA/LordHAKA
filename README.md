@@ -23,7 +23,7 @@ My OS
 My Languages
 
 
-![LANG](https://skillicons.dev/icons?i=py,arduino,bash,c,cs,cpp,css,docker,dotnet,go,gradle,html,htmx,java,js,kubernetes,lua,nextjs,nodejs,npm,php,powershell,raspberrypi,react,rust,swift&perline=4)
+![LANG](https://skillicons.dev/icons?i=py,arduino,bash,c,cs,cpp,css,docker,dotnet,go,gradle,html,htmx,java,js,kubernetes,lua,nextjs,nodejs,npm,php,powershell,raspberrypi,react,rust,swift,ruby&perline=4)
 
 
 Programs I Use
